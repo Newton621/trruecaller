@@ -3,6 +3,7 @@ package com.example.truecaller
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.truecaller.databinding.ActivityMainBinding
+import com.example.truecaller.ui.MainViewPagerAdapter
 
 class MainActivity : AppCompatActivity() {
 
