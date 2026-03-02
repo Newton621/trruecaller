@@ -24,9 +24,10 @@ A production-ready Android application that resembles and functions like Truecal
 
 To build from source:
 1. Clone this repository.
-2. Open in Android Studio.
-3. Sync Project with Gradle Files.
-4. Run `./gradlew assembleRelease` to generate a release APK.
+2. Open in **Android Studio**.
+3. Android Studio will prompt you to **"Sync Project with Gradle Files"**. Click this. This will generate the necessary `gradlew` build scripts.
+4. Once the sync is complete, you can build the APK using **Build > Build Bundle(s) / APK(s) > Build APK(s)**.
+5. Alternatively, use the terminal: `.\gradlew assembleDebug`.
 
 ## Future Updates
 To update the app:
