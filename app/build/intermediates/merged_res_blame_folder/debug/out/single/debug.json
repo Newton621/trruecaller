@@ -1,7 +1,19 @@
 [
     {
+        "merged": "com.example.truecaller.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.truecaller.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.truecaller.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.truecaller.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
         "merged": "com.example.truecaller.app-merged_res-4:/layout_fragment_contacts.xml.flat",
         "source": "com.example.truecaller.app-main-6:/layout/fragment_contacts.xml"
+    },
+    {
+        "merged": "com.example.truecaller.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.truecaller.app-main-6:/drawable/ic_launcher_background.xml"
     },
     {
         "merged": "com.example.truecaller.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
@@ -28,12 +40,16 @@
         "source": "com.example.truecaller.app-main-6:/layout/dialog_dial_pad.xml"
     },
     {
+        "merged": "com.example.truecaller.app-merged_res-4:/layout_dialog_add_contact.xml.flat",
+        "source": "com.example.truecaller.app-main-6:/layout/dialog_add_contact.xml"
+    },
+    {
         "merged": "com.example.truecaller.app-merged_res-4:/layout_fragment_calls.xml.flat",
         "source": "com.example.truecaller.app-main-6:/layout/fragment_calls.xml"
     },
     {
-        "merged": "com.example.truecaller.app-merged_res-4:/layout_dialog_add_contact.xml.flat",
-        "source": "com.example.truecaller.app-main-6:/layout/dialog_add_contact.xml"
+        "merged": "com.example.truecaller.app-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.truecaller.app-main-6:/drawable/ic_launcher_foreground.xml"
     },
     {
         "merged": "com.example.truecaller.app-merged_res-4:/xml_backup_rules.xml.flat",

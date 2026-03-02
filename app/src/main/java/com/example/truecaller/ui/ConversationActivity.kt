@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import com.example.truecaller.databinding.ActivityConversationBinding
 import com.example.truecaller.ui.viewmodel.MessageViewModel
+import com.example.truecaller.ui.ConversationAdapter
 
 class ConversationActivity : AppCompatActivity() {
     private lateinit var binding: ActivityConversationBinding

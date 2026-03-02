@@ -1,0 +1,6 @@
+com.example.truecaller.test.app-androidTest-0 C:\Truecaller\app\build\generated\res\resValues\androidTest\debug
+com.example.truecaller.test.app-mergeDebugAndroidTestResources-1 C:\Truecaller\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.truecaller.test.app-mergeDebugAndroidTestResources-2 C:\Truecaller\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.truecaller.test.app-merged_res-3 C:\Truecaller\app\build\intermediates\merged_res\debugAndroidTest
+com.example.truecaller.test.app-jetified-annotation-experimental-1.3.0-4 C:\Users\Administrator\.gradle\caches\transforms-3\1f3abe10d1870e2a226e8cc9c7e7eb3b\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.truecaller.test.app-jetified-core-1.5.0-5 C:\Users\Administrator\.gradle\caches\transforms-3\924342396859e64b96e62978ea61b85d\transformed\jetified-core-1.5.0\res

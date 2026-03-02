@@ -9,6 +9,8 @@ color teal_200
 color teal_700
 color white
 drawable bg_bubble_received
+drawable ic_launcher_background
+drawable ic_launcher_foreground
 id ablDetails
 id action_simulate_mpesa
 id appBarLayout
@@ -73,6 +75,8 @@ layout item_contact
 layout item_message_bubble
 layout item_message_thread
 menu menu_messages
+mipmap ic_launcher
+mipmap ic_launcher_round
 style Theme.Truecaller
 xml backup_rules
 xml data_extraction_rules

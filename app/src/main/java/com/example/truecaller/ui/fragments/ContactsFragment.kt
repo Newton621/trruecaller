@@ -6,6 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.truecaller.databinding.FragmentContactsBinding
+import com.example.truecaller.ui.ContactAdapter
+import com.example.truecaller.ui.viewmodel.ContactViewModel
 
 class ContactsFragment : Fragment() {
     private var _binding: FragmentContactsBinding? = null

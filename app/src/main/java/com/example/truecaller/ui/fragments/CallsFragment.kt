@@ -6,6 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.truecaller.databinding.FragmentCallsBinding
+import com.example.truecaller.ui.CallLogAdapter
+import com.example.truecaller.ui.viewmodel.CallLogViewModel
 
 class CallsFragment : Fragment() {
     private var _binding: FragmentCallsBinding? = null

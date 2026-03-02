@@ -6,6 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.truecaller.databinding.FragmentMessagesBinding
+import com.example.truecaller.ui.MessageThreadAdapter
+import com.example.truecaller.ui.viewmodel.MessageViewModel
 
 class MessagesFragment : Fragment() {
     private var _binding: FragmentMessagesBinding? = null
